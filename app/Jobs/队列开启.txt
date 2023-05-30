@@ -1,0 +1,28 @@
+开启队列 php artisan queue:work --queue syncdata
+
+执行任务
+手动同步   
+//同步城市
+php artisan SyncCommand city   
+
+//同步影院
+php artisan SyncCommand cinema
+
+
+//同步热映
+php artisan SyncCommand hot
+
+//同步即将上映
+php artisan SyncCommand rightnow
+
+//同步影片
+php artisan SyncCommand movies
+
+
+//同步排期
+php artisan SyncCommand schedules
+
+
+定时执行 同步任务
+
+php /www/wwwroot/movie_tickets/artisan schedule:run >> /dev/null 2>&1

@@ -1,0 +1,97 @@
+ 
+@font-face
+    font-family: 'Glyphicons Halflings'
+    src: url(../fonts/glyphicons-halflings-regular.eot)
+    src: url(../fonts/glyphicons-halflings-regular.eot?#iefix) format('embedded-opentype'),url(../fonts/glyphicons-halflings-regular.woff2) format('woff2'),url(../fonts/glyphicons-halflings-regular.woff) format('woff'),url(../fonts/glyphicons-halflings-regular.ttf) format('truetype'),url(../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular) format('svg')
+.glyphicon
+    position: relative
+    top: 1px
+    display: inline-block
+    font-family: 'Glyphicons Halflings'
+    font-style: normal
+    font-weight: 400 
+    line-height: 1
+    -webkit-font-smoothing: antialiased
+    -moz-osx-font-smoothing: grayscale
+.glyphicon-time:before
+    content: "\e023"
+.glyphicon-calendar:before
+    content: "\e109"
+.glyphicon-chevron-up:before
+    content: "\e113"
+.glyphicon-chevron-down:before
+    content: "\e114"
+.glyphicon-chevron-left:before
+    content: "\e079"
+.glyphicon-chevron-right:before
+    content: "\e080"
+.glyphicon-screenshot:before
+    content: "\e087"
+.glyphicon-trash:before
+    content: "\e020"
+.glyphicon-remove:before
+    content: "\e014"
+        
+.page-wrap
+    background-color: #FFFFFF
+    padding: 20px 15px
+.page-header
+    font-color: #000000
+    font-size: 20px
+    font-weight: bolder
+    padding: 1rem 0
+input
+    outline: none
+.btn-link
+    cursor: pointer
+.page-tab
+    border-bottom: 2px solid #e8e8e8
+    .nav-link
+        border-radius: 0
+        color: #555
+        &.active
+            position: relative
+            background: none
+            color: #3490DC
+            font-weight: 600
+            &:after
+                position: absolute
+                content: ''
+                bottom: -2px
+                left: 0
+                right: 0
+                height: 2px
+                background-color: #3490DC
+                width: 100%
+.table-list
+    border: 1px solid #ddd
+    border-radius: 10px
+    overflow: hidden
+    thead tr
+        background-color: #f1f1f1
+    thead th
+        border: none
+    td
+        vertical-align: middle
+    .table-secondary
+        background-color: #eff0f1
+
+.modal-btn
+    width: 120px
+
+.search-btn
+    width: 75px
+    margin-right: 10px
+.reset-btn
+    width: 75px
+
+.toast-success
+    background-color: #d4edda
+    border-color: #c3e6cb
+    color: #1d643b
+    min-width: 245px
+.toast-error
+    min-width: 245px
+    color: #721c24
+    background-color: #f8d7da
+    border-color: #f5c6cb

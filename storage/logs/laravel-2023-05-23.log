@@ -1,0 +1,1089 @@
+[2023-05-23 00:00:06] local.DEBUG: Request | 116.179.37.142 | /api/stores/info | {"token":null} 
+[2023-05-23 00:00:07] local.DEBUG: Request | 116.179.37.141 | /api/stores/info | {"token":null} 
+[2023-05-23 00:16:28] local.DEBUG: Request | 116.179.37.32 | /api/stores/info | {"token":null} 
+[2023-05-23 00:16:29] local.DEBUG: Request | 116.179.37.59 | /api/stores/info | {"token":null} 
+[2023-05-23 00:49:11] local.DEBUG: Request | 116.179.37.146 | /api/stores/info | {"token":null} 
+[2023-05-23 00:49:12] local.DEBUG: Request | 116.179.37.130 | /api/stores/info | {"token":null} 
+[2023-05-23 01:11:02] local.DEBUG: Request | 39.144.69.102 | /api/user/wxlogin | {"code":"0b1X0t0w3a46G03fYy3w3xN26t4X0t0Y"} 
+[2023-05-23 01:11:02] local.DEBUG: Request | 39.144.69.102 | /api/current_film | {"type":"1","limit":"10","token":"undefined"} 
+[2023-05-23 01:11:02] local.DEBUG: Request | 39.144.69.102 | /api/carousel | {"token":"undefined"} 
+[2023-05-23 01:11:02] local.DEBUG: Request | 39.144.69.102 | /api/mall/categoryList | {"category_id":"17","token":"undefined"} 
+[2023-05-23 01:11:02] local.DEBUG: Request | 39.144.69.102 | /api/mall/categoryList | {"isnav":"1","token":"undefined"} 
+[2023-05-23 01:11:02] local.DEBUG: Request | 39.144.69.102 | /api/mall/productList | {"page":"1","limit":"10","city_code":"undefined","city_name":"undefined","category_id":"20","lng":null,"lat":null,"ordering":"0","token":"undefined"} 
+[2023-05-23 01:11:02] local.DEBUG: Request | 39.144.69.102 | /api/carousel | {"category_id":"20","token":"undefined"} 
+[2023-05-23 01:11:03] local.DEBUG: Request | 39.144.69.102 | /api/mall/productList | {"page":"1","limit":"10","city_code":"469007","city_name":"东方市","category_id":"20","lng":null,"lat":null,"ordering":"0","token":"undefined"} 
+[2023-05-23 01:11:05] local.DEBUG: Request | 39.144.69.102 | /api/cinemas_brand | {"token":"undefined"} 
+[2023-05-23 01:11:05] local.DEBUG: Request | 39.144.69.102 | /api/current_film | {"type":"2","limit":"100","city_code":"469007","city_name":"东方市","token":"undefined"} 
+[2023-05-23 01:11:05] local.DEBUG: Request | 39.144.69.102 | /api/areas | {"city_code":"469007","type":"subway","city_name":"东方市","token":"undefined"} 
+[2023-05-23 01:11:05] local.DEBUG: Request | 39.144.69.102 | /api/carousel | {"token":"undefined"} 
+[2023-05-23 01:11:05] local.DEBUG: Request | 39.144.69.102 | /api/areas | {"city_code":"469007","type":"tradearea","city_name":"东方市","token":"undefined"} 
+[2023-05-23 01:11:05] local.DEBUG: Request | 39.144.69.102 | /api/areas | {"city_code":"469007","type":"district","city_name":"东方市","token":"undefined"} 
+[2023-05-23 01:11:06] local.DEBUG: Request | 39.144.69.102 | /api/cinemas | {"city_code":"469007","city_name":"东方市","trade_area":null,"subway":null,"lng":"108.683972","lat":"19.094517","brand_id":null,"token":"undefined"} 
+[2023-05-23 01:11:18] local.DEBUG: Request | 39.144.69.102 | /api/user/login | {"nickName":"微信用户","avatarUrl":"https://thirdwx.qlogo.cn/mmopen/vi_32/POgEwh4mIHO4nibH0KlMECNjjGxQUq24ZEaGT4poC6icRiccVGKSyXwibcPq4BWmiaIGuG1icwxaQX6grC9VemZoJ8rg/132","gender":0,"province":null,"city":null,"inviter_id":null,"iv":"dIKxmx0YP9vMjAwpfVckow==","encryptedData":"2+jXxT0owZ21ckxJW7tVD8Hx6pd9D2yR2J7QWOXZrcb8XTir5rKLIaFdNCe18jL83PJBcZoOmY4GDq5uSQqMAa7U9H3xAh2ekcRV6eDP4S8UmW+u8XGuYhpnETgTG7L9Qqs3YRKbz5+qiZ6UJOxrYxjY6p3F7uywYVVDScJ2jrUGMWcZyRg8f0nBKo49QT9GHPSwxG3TOH/j6SveI/Shsg==","code":"0d105K0w3o2PF03xdb0w3gdqxB005K0e"} 
+[2023-05-23 01:11:18] local.DEBUG: Request | 39.144.69.102 | /api/user/info | {"token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:20] local.DEBUG: Request | 39.144.69.102 | /api/areas | {"city_code":"469007","type":"tradearea","city_name":"东方市","token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:20] local.DEBUG: Request | 39.144.69.102 | /api/areas | {"city_code":"469007","type":"subway","city_name":"东方市","token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:20] local.DEBUG: Request | 39.144.69.102 | /api/current_film | {"type":"2","limit":"100","city_code":"469007","city_name":"东方市","token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:20] local.DEBUG: Request | 39.144.69.102 | /api/areas | {"city_code":"469007","type":"district","city_name":"东方市","token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:20] local.DEBUG: Request | 39.144.69.102 | /api/cinemas | {"city_code":"469007","city_name":"东方市","trade_area":null,"subway":null,"lng":"108.683972","lat":"19.094517","brand_id":null,"token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:25] local.DEBUG: Request | 39.144.69.102 | /api/film_info | {"film_id":"3421","token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:25] local.DEBUG: Request | 39.144.69.102 | /api/film_cinema_list | {"city_code":"469007","city_name":"东方市","trade_area":null,"subway":null,"lng":"108.683972","lat":"19.094517","dist_id":null,"brand_id":null,"show_time":null,"film_id":"3421","token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:28] local.DEBUG: Request | 39.144.69.102 | /api/areas | {"city_code":"469007","type":"district","city_name":"东方市","token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:28] local.DEBUG: Request | 39.144.69.102 | /api/cinemas | {"city_code":"469007","city_name":"东方市","trade_area":null,"subway":null,"lng":"108.683972","lat":"19.094517","brand_id":null,"token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:28] local.DEBUG: Request | 39.144.69.102 | /api/areas | {"city_code":"469007","type":"tradearea","city_name":"东方市","token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:28] local.DEBUG: Request | 39.144.69.102 | /api/areas | {"city_code":"469007","type":"subway","city_name":"东方市","token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:28] local.DEBUG: Request | 39.144.69.102 | /api/current_film | {"type":"2","limit":"100","city_code":"469007","city_name":"东方市","token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:29] local.DEBUG: Request | 39.144.69.102 | /api/film_info | {"film_id":"3421","token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:29] local.DEBUG: Request | 39.144.69.102 | /api/film_cinema_list | {"city_code":"469007","city_name":"东方市","trade_area":null,"subway":null,"lng":"108.683972","lat":"19.094517","dist_id":null,"brand_id":null,"show_time":null,"film_id":"3421","token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:33] local.DEBUG: Request | 39.144.69.102 | /api/areas | {"city_code":"469007","type":"district","city_name":"东方市","token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:33] local.DEBUG: Request | 39.144.69.102 | /api/areas | {"city_code":"469007","type":"subway","city_name":"东方市","token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:33] local.DEBUG: Request | 39.144.69.102 | /api/current_film | {"type":"2","limit":"100","city_code":"469007","city_name":"东方市","token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:33] local.DEBUG: Request | 39.144.69.102 | /api/cinemas | {"city_code":"469007","city_name":"东方市","trade_area":null,"subway":null,"lng":"108.683972","lat":"19.094517","brand_id":null,"token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:33] local.DEBUG: Request | 39.144.69.102 | /api/areas | {"city_code":"469007","type":"tradearea","city_name":"东方市","token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:33] local.DEBUG: Request | 39.144.69.102 | /api/film_info | {"film_id":"3421","token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:33] local.DEBUG: Request | 39.144.69.102 | /api/film_cinema_list | {"city_code":"469007","city_name":"东方市","trade_area":null,"subway":null,"lng":"108.683972","lat":"19.094517","dist_id":null,"brand_id":null,"show_time":null,"film_id":"3421","token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:35] local.DEBUG: Request | 39.144.69.102 | /api/current_film | {"type":"2","limit":"100","city_code":"469007","city_name":"东方市","token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:35] local.DEBUG: Request | 39.144.69.102 | /api/cinemas | {"city_code":"469007","city_name":"东方市","trade_area":null,"subway":null,"lng":"108.683972","lat":"19.094517","brand_id":null,"token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:35] local.DEBUG: Request | 39.144.69.102 | /api/areas | {"city_code":"469007","type":"district","city_name":"东方市","token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:35] local.DEBUG: Request | 39.144.69.102 | /api/areas | {"city_code":"469007","type":"subway","city_name":"东方市","token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:35] local.DEBUG: Request | 39.144.69.102 | /api/areas | {"city_code":"469007","type":"tradearea","city_name":"东方市","token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:38] local.DEBUG: Request | 39.144.69.102 | /api/film_info | {"film_id":"2944","token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:38] local.DEBUG: Request | 39.144.69.102 | /api/film_cinema_list | {"city_code":"469007","city_name":"东方市","trade_area":null,"subway":null,"lng":"108.683972","lat":"19.094517","dist_id":null,"brand_id":null,"show_time":null,"film_id":"2944","token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:40] local.DEBUG: Request | 39.144.69.102 | /api/cinemas | {"city_code":"469007","city_name":"东方市","trade_area":null,"subway":null,"lng":"108.683972","lat":"19.094517","brand_id":null,"token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:40] local.DEBUG: Request | 39.144.69.102 | /api/areas | {"city_code":"469007","type":"tradearea","city_name":"东方市","token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:40] local.DEBUG: Request | 39.144.69.102 | /api/current_film | {"type":"2","limit":"100","city_code":"469007","city_name":"东方市","token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:40] local.DEBUG: Request | 39.144.69.102 | /api/areas | {"city_code":"469007","type":"district","city_name":"东方市","token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:40] local.DEBUG: Request | 39.144.69.102 | /api/areas | {"city_code":"469007","type":"subway","city_name":"东方市","token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:41] local.DEBUG: Request | 39.144.69.102 | /api/user/wxlogin | {"code":"0c1R9x000HMM0Q1RFV2007OJhQ0R9x0T","token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:41] local.DEBUG: Request | 39.144.69.102 | /api/current_film | {"type":"2","limit":"10","city_code":"469007","city_name":"东方市","token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:41] local.DEBUG: Request | 39.144.69.102 | /api/user/info | {"token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:41] local.DEBUG: Request | 39.144.69.102 | /api/mall/activeList | {"token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:44] local.DEBUG: Request | 39.144.69.102 | /api/carousel | {"category_id":"undefined","tag_id":"4","token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:44] local.DEBUG: Request | 39.144.69.102 | /api/mall/categoryList | {"category_id":"undefined","token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:44] local.DEBUG: Request | 39.144.69.102 | /api/mall/productList | {"page":"1","limit":"10","city_code":"110100","city_name":"东方市","tag_id":"4","ordering":"0","token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:49] local.DEBUG: Request | 39.144.69.102 | /api/user/wxlogin | {"code":"0b1RpzFa1pjKlF06qqJa1L2jxG1RpzFn","token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:49] local.DEBUG: Request | 39.144.69.102 | /api/user/info | {"token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:49] local.DEBUG: Request | 39.144.69.102 | /api/mall/activeList | {"token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:49] local.DEBUG: Request | 39.144.69.102 | /api/current_film | {"type":"2","limit":"10","city_code":"469007","city_name":"东方市","token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:55] local.DEBUG: Request | 39.144.69.102 | /api/mall/categoryList | {"category_id":"1","istree":"1","token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:58] local.DEBUG: Request | 39.144.69.102 | /api/user/wxlogin | {"code":"0e1YISkl2sdGlb4faknl2QII522YISkg","token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:59] local.DEBUG: Request | 39.144.69.102 | /api/current_film | {"type":"2","limit":"10","city_code":"469007","city_name":"东方市","token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:59] local.DEBUG: Request | 39.144.69.102 | /api/user/info | {"token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:11:59] local.DEBUG: Request | 39.144.69.102 | /api/mall/activeList | {"token":"6c0170196fd22d8cf28c3069a6735ca5"} 
+[2023-05-23 01:21:54] local.DEBUG: Request | 116.179.37.13 | /api/stores/info | {"token":null} 
+[2023-05-23 01:21:55] local.DEBUG: Request | 116.179.37.69 | /api/stores/info | {"token":null} 
+[2023-05-23 01:38:16] local.DEBUG: Request | 116.179.37.210 | /api/stores/info | {"token":null} 
+[2023-05-23 01:38:17] local.DEBUG: Request | 116.179.37.47 | /api/stores/info | {"token":null} 
+[2023-05-23 02:11:00] local.DEBUG: Request | 116.179.37.8 | /api/stores/info | {"token":null} 
+[2023-05-23 02:11:01] local.DEBUG: Request | 116.179.37.156 | /api/stores/info | {"token":null} 
+[2023-05-23 02:27:23] local.DEBUG: Request | 116.179.37.12 | /api/stores/info | {"token":null} 
+[2023-05-23 02:27:24] local.DEBUG: Request | 116.179.37.53 | /api/stores/info | {"token":null} 
+[2023-05-23 02:43:45] local.DEBUG: Request | 116.179.37.114 | /api/stores/info | {"token":null} 
+[2023-05-23 02:43:46] local.DEBUG: Request | 116.179.37.133 | /api/stores/info | {"token":null} 
+[2023-05-23 04:01:02] local.DEBUG: Request | 116.179.37.133 | /api/stores/info | {"token":null} 
+[2023-05-23 04:01:03] local.DEBUG: Request | 116.179.37.160 | /api/stores/info | {"token":null} 
+[2023-05-23 04:45:35] local.DEBUG: Request | 116.179.37.43 | /api/stores/info | {"token":null} 
+[2023-05-23 04:45:37] local.DEBUG: Request | 116.179.37.250 | /api/stores/info | {"token":null} 
+[2023-05-23 08:07:56] local.DEBUG: Request | 116.179.37.237 | /api/stores/info | {"token":null} 
+[2023-05-23 08:07:57] local.DEBUG: Request | 116.179.37.223 | /api/stores/info | {"token":null} 
+[2023-05-23 08:31:57] local.DEBUG: Request | 116.179.37.101 | /api/stores/info | {"token":null} 
+[2023-05-23 08:31:59] local.DEBUG: Request | 116.179.37.174 | /api/stores/info | {"token":null} 
+[2023-05-23 09:20:04] local.DEBUG: Request | 116.179.37.146 | /api/stores/info | {"token":null} 
+[2023-05-23 09:20:05] local.DEBUG: Request | 116.179.37.25 | /api/stores/info | {"token":null} 
+[2023-05-23 10:41:28] local.DEBUG: Request | 116.179.37.108 | /api/stores/info | {"token":null} 
+[2023-05-23 10:41:30] local.DEBUG: Request | 116.179.37.134 | /api/stores/info | {"token":null} 
+[2023-05-23 11:38:50] local.DEBUG: Request | 116.179.37.93 | /api/stores/info | {"token":null} 
+[2023-05-23 11:38:51] local.DEBUG: Request | 116.179.37.18 | /api/stores/info | {"token":null} 
+[2023-05-23 11:47:03] local.DEBUG: Request | 111.197.252.254 | /api/card/cardList | {"com_id":"10001","token":"05e42caceab9d0a92409b9497fb29f6d"} 
+[2023-05-23 11:47:03] local.DEBUG: Request | 111.197.252.254 | /api/carousel | {"com_id":"10001","token":"05e42caceab9d0a92409b9497fb29f6d"} 
+[2023-05-23 11:47:03] local.DEBUG: Request | 111.197.252.254 | /api/user/wxlogin | {"code":"0c3jQm1w3uvJF03xNc0w3cm2ze2jQm1o","com_id":10001,"token":"05e42caceab9d0a92409b9497fb29f6d"} 
+[2023-05-23 11:47:03] local.DEBUG: Request | 111.197.252.254 | /api/current_film | {"type":"2","limit":"10","city_code":"110105","com_id":"10001","token":"05e42caceab9d0a92409b9497fb29f6d"} 
+[2023-05-23 11:47:03] local.DEBUG: Client error: `POST https://c.jufubao.cn/oauth/access-token` resulted in a `403 Forbidden` response:
+{"code":403,"message":"error","result":[]}
+  
+[2023-05-23 11:47:03] local.ERROR: Undefined index: access_token {"exception":"[object] (ErrorException(code: 0): Undefined index: access_token at /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php:335)
+[stacktrace]
+#0 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(335): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/data/wwwroot/x...', 335, Array)
+#1 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(317): App\\Support\\MApi::getApiToken()
+#2 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(269): App\\Support\\MApi::getToken()
+#3 /data/wwwroot/xcx.ylhwlkj.com/app/Support/Api/ApiHouse.php(267): App\\Support\\MApi::getCurrentFilm('110100')
+#4 /data/wwwroot/xcx.ylhwlkj.com/app/Http/Controllers/ApiController.php(643): App\\Support\\Api\\ApiHouse::__callStatic('getCurrentFilm', Array)
+#5 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(54): App\\Http\\Controllers\\ApiController->currentFilmList(Object(Illuminate\\Http\\Request))
+#6 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(45): Illuminate\\Routing\\Controller->callAction('currentFilmList', Array)
+#7 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php(219): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(App\\Http\\Controllers\\ApiController), 'currentFilmList')
+#8 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php(176): Illuminate\\Routing\\Route->runController()
+#9 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(681): Illuminate\\Routing\\Route->run()
+#10 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#11 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#12 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#13 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php(59): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#14 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Routing\\Middleware\\ThrottleRequests->handle(Object(Illuminate\\Http\\Request), Object(Closure), 10000, '1')
+#15 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#16 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(683): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#17 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(658): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#18 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(624): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#19 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(613): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#20 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#21 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#22 /data/wwwroot/xcx.ylhwlkj.com/app/Http/Middleware/RequestLog.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#23 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): App\\Http\\Middleware\\RequestLog->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#25 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#26 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#27 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#28 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#29 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#30 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(63): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#31 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#32 /data/wwwroot/xcx.ylhwlkj.com/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#33 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Fideloper\\Proxy\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#34 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#35 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(145): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#36 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#37 /data/wwwroot/xcx.ylhwlkj.com/public/index.php(60): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#38 {main}
+"} 
+[2023-05-23 11:47:03] local.DEBUG: Request | 111.197.252.254 | /api/current_film | {"type":"1","limit":"10","city_code":"110105","com_id":"10001","token":"05e42caceab9d0a92409b9497fb29f6d"} 
+[2023-05-23 11:47:04] local.DEBUG: Client error: `POST https://c.jufubao.cn/oauth/access-token` resulted in a `403 Forbidden` response:
+{"code":403,"message":"error","result":[]}
+  
+[2023-05-23 11:47:04] local.ERROR: Undefined index: access_token {"exception":"[object] (ErrorException(code: 0): Undefined index: access_token at /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php:335)
+[stacktrace]
+#0 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(335): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/data/wwwroot/x...', 335, Array)
+#1 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(317): App\\Support\\MApi::getApiToken()
+#2 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(286): App\\Support\\MApi::getToken()
+#3 /data/wwwroot/xcx.ylhwlkj.com/app/Support/Api/ApiHouse.php(267): App\\Support\\MApi::getPlanFilm('110100')
+#4 /data/wwwroot/xcx.ylhwlkj.com/app/Http/Controllers/ApiController.php(611): App\\Support\\Api\\ApiHouse::__callStatic('getPlanFilm', Array)
+#5 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(54): App\\Http\\Controllers\\ApiController->currentFilmList(Object(Illuminate\\Http\\Request))
+#6 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(45): Illuminate\\Routing\\Controller->callAction('currentFilmList', Array)
+#7 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php(219): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(App\\Http\\Controllers\\ApiController), 'currentFilmList')
+#8 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php(176): Illuminate\\Routing\\Route->runController()
+#9 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(681): Illuminate\\Routing\\Route->run()
+#10 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#11 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#12 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#13 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php(59): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#14 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Routing\\Middleware\\ThrottleRequests->handle(Object(Illuminate\\Http\\Request), Object(Closure), 10000, '1')
+#15 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#16 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(683): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#17 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(658): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#18 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(624): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#19 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(613): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#20 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#21 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#22 /data/wwwroot/xcx.ylhwlkj.com/app/Http/Middleware/RequestLog.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#23 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): App\\Http\\Middleware\\RequestLog->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#25 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#26 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#27 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#28 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#29 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#30 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(63): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#31 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#32 /data/wwwroot/xcx.ylhwlkj.com/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#33 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Fideloper\\Proxy\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#34 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#35 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(145): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#36 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#37 /data/wwwroot/xcx.ylhwlkj.com/public/index.php(60): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#38 {main}
+"} 
+[2023-05-23 11:47:04] local.DEBUG: Request | 111.197.252.254 | /api/user/info | {"com_id":"10001","token":"05e42caceab9d0a92409b9497fb29f6d"} 
+[2023-05-23 11:47:04] local.DEBUG: Request | 111.197.252.254 | /api/current_film | {"type":"2","limit":"10","city_code":"110105","com_id":"10001","token":"05e42caceab9d0a92409b9497fb29f6d"} 
+[2023-05-23 11:47:04] local.DEBUG: Client error: `POST https://c.jufubao.cn/oauth/access-token` resulted in a `403 Forbidden` response:
+{"code":403,"message":"error","result":[]}
+  
+[2023-05-23 11:47:04] local.ERROR: Undefined index: access_token {"exception":"[object] (ErrorException(code: 0): Undefined index: access_token at /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php:335)
+[stacktrace]
+#0 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(335): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/data/wwwroot/x...', 335, Array)
+#1 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(317): App\\Support\\MApi::getApiToken()
+#2 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(269): App\\Support\\MApi::getToken()
+#3 /data/wwwroot/xcx.ylhwlkj.com/app/Support/Api/ApiHouse.php(267): App\\Support\\MApi::getCurrentFilm('110100')
+#4 /data/wwwroot/xcx.ylhwlkj.com/app/Http/Controllers/ApiController.php(643): App\\Support\\Api\\ApiHouse::__callStatic('getCurrentFilm', Array)
+#5 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(54): App\\Http\\Controllers\\ApiController->currentFilmList(Object(Illuminate\\Http\\Request))
+#6 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(45): Illuminate\\Routing\\Controller->callAction('currentFilmList', Array)
+#7 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php(219): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(App\\Http\\Controllers\\ApiController), 'currentFilmList')
+#8 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php(176): Illuminate\\Routing\\Route->runController()
+#9 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(681): Illuminate\\Routing\\Route->run()
+#10 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#11 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#12 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#13 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php(59): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#14 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Routing\\Middleware\\ThrottleRequests->handle(Object(Illuminate\\Http\\Request), Object(Closure), 10000, '1')
+#15 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#16 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(683): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#17 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(658): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#18 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(624): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#19 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(613): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#20 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#21 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#22 /data/wwwroot/xcx.ylhwlkj.com/app/Http/Middleware/RequestLog.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#23 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): App\\Http\\Middleware\\RequestLog->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#25 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#26 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#27 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#28 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#29 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#30 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(63): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#31 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#32 /data/wwwroot/xcx.ylhwlkj.com/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#33 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Fideloper\\Proxy\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#34 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#35 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(145): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#36 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#37 /data/wwwroot/xcx.ylhwlkj.com/public/index.php(60): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#38 {main}
+"} 
+[2023-05-23 11:47:09] local.DEBUG: Request | 111.197.252.254 | /api/card/cardList | {"com_id":"10001","token":"05e42caceab9d0a92409b9497fb29f6d"} 
+[2023-05-23 11:47:09] local.DEBUG: Request | 111.197.252.254 | /api/card/purchaseRecords | {"card_id":1020,"com_id":10001,"token":"05e42caceab9d0a92409b9497fb29f6d"} 
+[2023-05-23 11:47:12] local.DEBUG: Request | 111.197.252.254 | /api/user/wxlogin | {"code":"0d3bOB000urN1Q1ypT200MKnYm3bOB0b","com_id":10001,"token":"05e42caceab9d0a92409b9497fb29f6d"} 
+[2023-05-23 11:47:12] local.DEBUG: Request | 111.197.252.254 | /api/user/info | {"com_id":"10001","token":"05e42caceab9d0a92409b9497fb29f6d"} 
+[2023-05-23 11:47:12] local.DEBUG: Request | 111.197.252.254 | /api/current_film | {"type":"2","limit":"10","city_code":"110105","com_id":"10001","token":"05e42caceab9d0a92409b9497fb29f6d"} 
+[2023-05-23 11:47:13] local.DEBUG: Client error: `POST https://c.jufubao.cn/oauth/access-token` resulted in a `403 Forbidden` response:
+{"code":403,"message":"error","result":[]}
+  
+[2023-05-23 11:47:13] local.ERROR: Undefined index: access_token {"exception":"[object] (ErrorException(code: 0): Undefined index: access_token at /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php:335)
+[stacktrace]
+#0 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(335): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/data/wwwroot/x...', 335, Array)
+#1 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(317): App\\Support\\MApi::getApiToken()
+#2 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(269): App\\Support\\MApi::getToken()
+#3 /data/wwwroot/xcx.ylhwlkj.com/app/Support/Api/ApiHouse.php(267): App\\Support\\MApi::getCurrentFilm('110100')
+#4 /data/wwwroot/xcx.ylhwlkj.com/app/Http/Controllers/ApiController.php(643): App\\Support\\Api\\ApiHouse::__callStatic('getCurrentFilm', Array)
+#5 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(54): App\\Http\\Controllers\\ApiController->currentFilmList(Object(Illuminate\\Http\\Request))
+#6 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(45): Illuminate\\Routing\\Controller->callAction('currentFilmList', Array)
+#7 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php(219): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(App\\Http\\Controllers\\ApiController), 'currentFilmList')
+#8 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php(176): Illuminate\\Routing\\Route->runController()
+#9 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(681): Illuminate\\Routing\\Route->run()
+#10 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#11 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#12 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#13 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php(59): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#14 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Routing\\Middleware\\ThrottleRequests->handle(Object(Illuminate\\Http\\Request), Object(Closure), 10000, '1')
+#15 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#16 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(683): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#17 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(658): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#18 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(624): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#19 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(613): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#20 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#21 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#22 /data/wwwroot/xcx.ylhwlkj.com/app/Http/Middleware/RequestLog.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#23 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): App\\Http\\Middleware\\RequestLog->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#25 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#26 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#27 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#28 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#29 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#30 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(63): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#31 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#32 /data/wwwroot/xcx.ylhwlkj.com/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#33 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Fideloper\\Proxy\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#34 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#35 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(145): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#36 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#37 /data/wwwroot/xcx.ylhwlkj.com/public/index.php(60): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#38 {main}
+"} 
+[2023-05-23 11:47:13] local.DEBUG: Request | 111.197.252.254 | /api/card/cardList | {"com_id":"10001","token":"05e42caceab9d0a92409b9497fb29f6d"} 
+[2023-05-23 11:47:13] local.DEBUG: Request | 111.197.252.254 | /api/card/purchaseRecords | {"card_id":1020,"com_id":10001,"token":"05e42caceab9d0a92409b9497fb29f6d"} 
+[2023-05-23 11:47:14] local.DEBUG: Request | 111.197.252.254 | /api/card/freeget | {"card_id":1020,"com_id":10001,"token":"05e42caceab9d0a92409b9497fb29f6d"} 
+[2023-05-23 11:47:16] local.DEBUG: Request | 111.197.252.254 | /api/card/myCardList | {"com_id":10001,"token":"05e42caceab9d0a92409b9497fb29f6d"} 
+[2023-05-23 11:47:17] local.DEBUG: Request | 111.197.252.254 | /api/user/wxlogin | {"code":"0b3vLk000Iow1Q1jdK000MvyMS3vLk0s","com_id":10001,"token":"05e42caceab9d0a92409b9497fb29f6d"} 
+[2023-05-23 11:47:18] local.DEBUG: Request | 111.197.252.254 | /api/current_film | {"type":"2","limit":"10","city_code":"110105","com_id":"10001","token":"05e42caceab9d0a92409b9497fb29f6d"} 
+[2023-05-23 11:47:18] local.DEBUG: Request | 111.197.252.254 | /api/user/info | {"com_id":"10001","token":"05e42caceab9d0a92409b9497fb29f6d"} 
+[2023-05-23 11:47:18] local.DEBUG: Client error: `POST https://c.jufubao.cn/oauth/access-token` resulted in a `403 Forbidden` response:
+{"code":403,"message":"error","result":[]}
+  
+[2023-05-23 11:47:18] local.ERROR: Undefined index: access_token {"exception":"[object] (ErrorException(code: 0): Undefined index: access_token at /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php:335)
+[stacktrace]
+#0 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(335): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/data/wwwroot/x...', 335, Array)
+#1 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(317): App\\Support\\MApi::getApiToken()
+#2 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(269): App\\Support\\MApi::getToken()
+#3 /data/wwwroot/xcx.ylhwlkj.com/app/Support/Api/ApiHouse.php(267): App\\Support\\MApi::getCurrentFilm('110100')
+#4 /data/wwwroot/xcx.ylhwlkj.com/app/Http/Controllers/ApiController.php(643): App\\Support\\Api\\ApiHouse::__callStatic('getCurrentFilm', Array)
+#5 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(54): App\\Http\\Controllers\\ApiController->currentFilmList(Object(Illuminate\\Http\\Request))
+#6 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(45): Illuminate\\Routing\\Controller->callAction('currentFilmList', Array)
+#7 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php(219): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(App\\Http\\Controllers\\ApiController), 'currentFilmList')
+#8 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php(176): Illuminate\\Routing\\Route->runController()
+#9 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(681): Illuminate\\Routing\\Route->run()
+#10 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#11 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#12 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#13 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php(59): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#14 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Routing\\Middleware\\ThrottleRequests->handle(Object(Illuminate\\Http\\Request), Object(Closure), 10000, '1')
+#15 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#16 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(683): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#17 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(658): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#18 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(624): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#19 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(613): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#20 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#21 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#22 /data/wwwroot/xcx.ylhwlkj.com/app/Http/Middleware/RequestLog.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#23 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): App\\Http\\Middleware\\RequestLog->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#25 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#26 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#27 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#28 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#29 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#30 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(63): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#31 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#32 /data/wwwroot/xcx.ylhwlkj.com/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#33 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Fideloper\\Proxy\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#34 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#35 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(145): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#36 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#37 /data/wwwroot/xcx.ylhwlkj.com/public/index.php(60): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#38 {main}
+"} 
+[2023-05-23 11:47:26] local.DEBUG: Request | 111.197.252.254 | /api/carousel | {"token":"ae61d10917bf930ff777de40cc1d6c65"} 
+[2023-05-23 11:47:26] local.DEBUG: Request | 111.197.252.254 | /api/current_film | {"type":"1","limit":"10","token":"ae61d10917bf930ff777de40cc1d6c65"} 
+[2023-05-23 11:47:26] local.DEBUG: Request | 111.197.252.254 | /api/mall/categoryList | {"category_id":"17","token":"ae61d10917bf930ff777de40cc1d6c65"} 
+[2023-05-23 11:47:26] local.DEBUG: Request | 111.197.252.254 | /api/mall/categoryList | {"isnav":"1","token":"ae61d10917bf930ff777de40cc1d6c65"} 
+[2023-05-23 11:47:26] local.DEBUG: Client error: `POST https://c.jufubao.cn/oauth/access-token` resulted in a `403 Forbidden` response:
+{"code":403,"message":"error","result":[]}
+  
+[2023-05-23 11:47:26] local.ERROR: Undefined index: access_token {"exception":"[object] (ErrorException(code: 0): Undefined index: access_token at /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php:335)
+[stacktrace]
+#0 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(335): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/data/wwwroot/x...', 335, Array)
+#1 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(317): App\\Support\\MApi::getApiToken()
+#2 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(286): App\\Support\\MApi::getToken()
+#3 /data/wwwroot/xcx.ylhwlkj.com/app/Support/Api/ApiHouse.php(267): App\\Support\\MApi::getPlanFilm(0)
+#4 /data/wwwroot/xcx.ylhwlkj.com/app/Http/Controllers/ApiController.php(611): App\\Support\\Api\\ApiHouse::__callStatic('getPlanFilm', Array)
+#5 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(54): App\\Http\\Controllers\\ApiController->currentFilmList(Object(Illuminate\\Http\\Request))
+#6 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(45): Illuminate\\Routing\\Controller->callAction('currentFilmList', Array)
+#7 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php(219): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(App\\Http\\Controllers\\ApiController), 'currentFilmList')
+#8 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php(176): Illuminate\\Routing\\Route->runController()
+#9 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(681): Illuminate\\Routing\\Route->run()
+#10 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#11 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#12 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#13 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php(59): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#14 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Routing\\Middleware\\ThrottleRequests->handle(Object(Illuminate\\Http\\Request), Object(Closure), 10000, '1')
+#15 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#16 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(683): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#17 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(658): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#18 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(624): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#19 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(613): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#20 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#21 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#22 /data/wwwroot/xcx.ylhwlkj.com/app/Http/Middleware/RequestLog.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#23 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): App\\Http\\Middleware\\RequestLog->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#25 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#26 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#27 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#28 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#29 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#30 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(63): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#31 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#32 /data/wwwroot/xcx.ylhwlkj.com/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#33 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Fideloper\\Proxy\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#34 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#35 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(145): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#36 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#37 /data/wwwroot/xcx.ylhwlkj.com/public/index.php(60): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#38 {main}
+"} 
+[2023-05-23 11:47:27] local.DEBUG: Request | 111.197.252.254 | /api/user/wxlogin | {"code":"0a39PB000lsN1Q1tIR3004o8F119PB0n","token":"ae61d10917bf930ff777de40cc1d6c65"} 
+[2023-05-23 11:47:27] local.DEBUG: Request | 111.197.252.254 | /api/mall/productList | {"page":"1","limit":"10","city_code":"undefined","city_name":"undefined","category_id":"20","lng":null,"lat":null,"ordering":"0","token":"ae61d10917bf930ff777de40cc1d6c65"} 
+[2023-05-23 11:47:27] local.DEBUG: Request | 111.197.252.254 | /api/carousel | {"category_id":"20","token":"ae61d10917bf930ff777de40cc1d6c65"} 
+[2023-05-23 11:47:27] local.DEBUG: Request | 111.197.252.254 | /api/mall/productList | {"page":"1","limit":"10","city_code":"110105","city_name":"北京市","category_id":"20","lng":null,"lat":null,"ordering":"0","token":"ae61d10917bf930ff777de40cc1d6c65"} 
+[2023-05-23 11:47:27] local.DEBUG: Request | 111.197.252.254 | /api/mall/activeList | {"token":"ae61d10917bf930ff777de40cc1d6c65"} 
+[2023-05-23 11:47:27] local.DEBUG: Request | 111.197.252.254 | /api/user/info | {"token":"ae61d10917bf930ff777de40cc1d6c65"} 
+[2023-05-23 11:47:27] local.DEBUG: Request | 111.197.252.254 | /api/current_film | {"type":"2","limit":"10","city_code":"110105","city_name":"北京市","token":"ae61d10917bf930ff777de40cc1d6c65"} 
+[2023-05-23 11:47:28] local.DEBUG: Client error: `POST https://c.jufubao.cn/oauth/access-token` resulted in a `403 Forbidden` response:
+{"code":403,"message":"error","result":[]}
+  
+[2023-05-23 11:47:28] local.ERROR: Undefined index: access_token {"exception":"[object] (ErrorException(code: 0): Undefined index: access_token at /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php:335)
+[stacktrace]
+#0 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(335): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/data/wwwroot/x...', 335, Array)
+#1 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(317): App\\Support\\MApi::getApiToken()
+#2 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(269): App\\Support\\MApi::getToken()
+#3 /data/wwwroot/xcx.ylhwlkj.com/app/Support/Api/ApiHouse.php(267): App\\Support\\MApi::getCurrentFilm('110100')
+#4 /data/wwwroot/xcx.ylhwlkj.com/app/Http/Controllers/ApiController.php(643): App\\Support\\Api\\ApiHouse::__callStatic('getCurrentFilm', Array)
+#5 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(54): App\\Http\\Controllers\\ApiController->currentFilmList(Object(Illuminate\\Http\\Request))
+#6 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(45): Illuminate\\Routing\\Controller->callAction('currentFilmList', Array)
+#7 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php(219): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(App\\Http\\Controllers\\ApiController), 'currentFilmList')
+#8 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php(176): Illuminate\\Routing\\Route->runController()
+#9 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(681): Illuminate\\Routing\\Route->run()
+#10 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#11 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#12 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#13 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php(59): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#14 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Routing\\Middleware\\ThrottleRequests->handle(Object(Illuminate\\Http\\Request), Object(Closure), 10000, '1')
+#15 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#16 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(683): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#17 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(658): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#18 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(624): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#19 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(613): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#20 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#21 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#22 /data/wwwroot/xcx.ylhwlkj.com/app/Http/Middleware/RequestLog.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#23 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): App\\Http\\Middleware\\RequestLog->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#25 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#26 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#27 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#28 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#29 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#30 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(63): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#31 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#32 /data/wwwroot/xcx.ylhwlkj.com/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#33 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Fideloper\\Proxy\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#34 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#35 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(145): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#36 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#37 /data/wwwroot/xcx.ylhwlkj.com/public/index.php(60): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#38 {main}
+"} 
+[2023-05-23 11:48:04] local.DEBUG: Request | 111.197.252.254 | /api/carousel | {"token":"ae61d10917bf930ff777de40cc1d6c65"} 
+[2023-05-23 11:48:04] local.DEBUG: Request | 111.197.252.254 | /api/areas | {"city_code":"110105","type":"subway","city_name":"北京市","token":"ae61d10917bf930ff777de40cc1d6c65"} 
+[2023-05-23 11:48:04] local.DEBUG: Request | 111.197.252.254 | /api/areas | {"city_code":"110105","type":"tradearea","city_name":"北京市","token":"ae61d10917bf930ff777de40cc1d6c65"} 
+[2023-05-23 11:48:04] local.DEBUG: Request | 111.197.252.254 | /api/cinemas_brand | {"token":"ae61d10917bf930ff777de40cc1d6c65"} 
+[2023-05-23 11:48:04] local.DEBUG: Request | 111.197.252.254 | /api/areas | {"city_code":"110105","type":"district","city_name":"北京市","token":"ae61d10917bf930ff777de40cc1d6c65"} 
+[2023-05-23 11:48:04] local.DEBUG: Request | 111.197.252.254 | /api/current_film | {"type":"2","limit":"100","city_code":"110105","city_name":"北京市","token":"ae61d10917bf930ff777de40cc1d6c65"} 
+[2023-05-23 11:48:04] local.DEBUG: Client error: `POST https://c.jufubao.cn/oauth/access-token` resulted in a `403 Forbidden` response:
+{"code":403,"message":"error","result":[]}
+  
+[2023-05-23 11:48:04] local.ERROR: Undefined index: access_token {"exception":"[object] (ErrorException(code: 0): Undefined index: access_token at /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php:335)
+[stacktrace]
+#0 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(335): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/data/wwwroot/x...', 335, Array)
+#1 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(317): App\\Support\\MApi::getApiToken()
+#2 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(269): App\\Support\\MApi::getToken()
+#3 /data/wwwroot/xcx.ylhwlkj.com/app/Support/Api/ApiHouse.php(267): App\\Support\\MApi::getCurrentFilm('110100')
+#4 /data/wwwroot/xcx.ylhwlkj.com/app/Http/Controllers/ApiController.php(643): App\\Support\\Api\\ApiHouse::__callStatic('getCurrentFilm', Array)
+#5 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(54): App\\Http\\Controllers\\ApiController->currentFilmList(Object(Illuminate\\Http\\Request))
+#6 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(45): Illuminate\\Routing\\Controller->callAction('currentFilmList', Array)
+#7 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php(219): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(App\\Http\\Controllers\\ApiController), 'currentFilmList')
+#8 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php(176): Illuminate\\Routing\\Route->runController()
+#9 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(681): Illuminate\\Routing\\Route->run()
+#10 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#11 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#12 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#13 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php(59): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#14 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Routing\\Middleware\\ThrottleRequests->handle(Object(Illuminate\\Http\\Request), Object(Closure), 10000, '1')
+#15 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#16 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(683): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#17 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(658): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#18 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(624): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#19 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(613): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#20 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#21 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#22 /data/wwwroot/xcx.ylhwlkj.com/app/Http/Middleware/RequestLog.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#23 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): App\\Http\\Middleware\\RequestLog->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#25 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#26 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#27 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#28 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#29 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#30 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(63): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#31 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#32 /data/wwwroot/xcx.ylhwlkj.com/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#33 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Fideloper\\Proxy\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#34 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#35 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(145): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#36 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#37 /data/wwwroot/xcx.ylhwlkj.com/public/index.php(60): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#38 {main}
+"} 
+[2023-05-23 11:48:04] local.DEBUG: Request | 111.197.252.254 | /api/cinemas | {"city_code":"110105","city_name":"北京市","trade_area":null,"subway":null,"lng":"116.617432","lat":"39.92519","brand_id":null,"token":"ae61d10917bf930ff777de40cc1d6c65"} 
+[2023-05-23 12:31:42] local.DEBUG: Request | 116.179.37.223 | /api/stores/info | {"token":null} 
+[2023-05-23 12:31:43] local.DEBUG: Request | 116.179.37.11 | /api/stores/info | {"token":null} 
+[2023-05-23 14:25:05] local.DEBUG: Request | 116.179.37.151 | /api/stores/info | {"token":null} 
+[2023-05-23 14:25:06] local.DEBUG: Request | 116.179.37.22 | /api/stores/info | {"token":null} 
+[2023-05-23 16:42:41] local.DEBUG: Request | 111.197.252.254 | /api/card/cardList | {"com_id":"10102","token":"1717d7d4b2887f324bd911f8071c7100"} 
+[2023-05-23 16:42:41] local.DEBUG: Request | 111.197.252.254 | /api/carousel | {"com_id":"10102","token":"1717d7d4b2887f324bd911f8071c7100"} 
+[2023-05-23 16:42:41] local.DEBUG: Request | 111.197.252.254 | /api/user/wxlogin | {"code":"0e3G1FFa1tYgmF0VUTGa1uXiN21G1FFl","com_id":"10102","token":"1717d7d4b2887f324bd911f8071c7100"} 
+[2023-05-23 16:42:41] local.DEBUG: Request | 111.197.252.254 | /api/current_film | {"type":"2","limit":"10","city_code":"110105","com_id":"10102","token":"1717d7d4b2887f324bd911f8071c7100"} 
+[2023-05-23 16:42:41] local.DEBUG: Request | 111.197.252.254 | /api/current_film | {"type":"1","limit":"10","city_code":"110105","com_id":"10102","token":"1717d7d4b2887f324bd911f8071c7100"} 
+[2023-05-23 16:42:41] local.DEBUG: Client error: `POST https://c.jufubao.cn/oauth/access-token` resulted in a `403 Forbidden` response:
+{"code":403,"message":"error","result":[]}
+  
+[2023-05-23 16:42:41] local.ERROR: Undefined index: access_token {"exception":"[object] (ErrorException(code: 0): Undefined index: access_token at /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php:335)
+[stacktrace]
+#0 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(335): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/data/wwwroot/x...', 335, Array)
+#1 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(317): App\\Support\\MApi::getApiToken()
+#2 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(269): App\\Support\\MApi::getToken()
+#3 /data/wwwroot/xcx.ylhwlkj.com/app/Support/Api/ApiHouse.php(267): App\\Support\\MApi::getCurrentFilm('110100')
+#4 /data/wwwroot/xcx.ylhwlkj.com/app/Http/Controllers/ApiController.php(643): App\\Support\\Api\\ApiHouse::__callStatic('getCurrentFilm', Array)
+#5 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(54): App\\Http\\Controllers\\ApiController->currentFilmList(Object(Illuminate\\Http\\Request))
+#6 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(45): Illuminate\\Routing\\Controller->callAction('currentFilmList', Array)
+#7 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php(219): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(App\\Http\\Controllers\\ApiController), 'currentFilmList')
+#8 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php(176): Illuminate\\Routing\\Route->runController()
+#9 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(681): Illuminate\\Routing\\Route->run()
+#10 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#11 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#12 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#13 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php(59): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#14 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Routing\\Middleware\\ThrottleRequests->handle(Object(Illuminate\\Http\\Request), Object(Closure), 10000, '1')
+#15 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#16 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(683): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#17 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(658): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#18 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(624): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#19 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(613): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#20 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#21 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#22 /data/wwwroot/xcx.ylhwlkj.com/app/Http/Middleware/RequestLog.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#23 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): App\\Http\\Middleware\\RequestLog->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#25 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#26 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#27 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#28 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#29 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#30 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(63): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#31 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#32 /data/wwwroot/xcx.ylhwlkj.com/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#33 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Fideloper\\Proxy\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#34 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#35 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(145): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#36 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#37 /data/wwwroot/xcx.ylhwlkj.com/public/index.php(60): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#38 {main}
+"} 
+[2023-05-23 16:42:41] local.DEBUG: Client error: `POST https://c.jufubao.cn/oauth/access-token` resulted in a `403 Forbidden` response:
+{"code":403,"message":"error","result":[]}
+  
+[2023-05-23 16:42:41] local.ERROR: Undefined index: access_token {"exception":"[object] (ErrorException(code: 0): Undefined index: access_token at /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php:335)
+[stacktrace]
+#0 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(335): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/data/wwwroot/x...', 335, Array)
+#1 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(317): App\\Support\\MApi::getApiToken()
+#2 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(286): App\\Support\\MApi::getToken()
+#3 /data/wwwroot/xcx.ylhwlkj.com/app/Support/Api/ApiHouse.php(267): App\\Support\\MApi::getPlanFilm('110100')
+#4 /data/wwwroot/xcx.ylhwlkj.com/app/Http/Controllers/ApiController.php(611): App\\Support\\Api\\ApiHouse::__callStatic('getPlanFilm', Array)
+#5 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(54): App\\Http\\Controllers\\ApiController->currentFilmList(Object(Illuminate\\Http\\Request))
+#6 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(45): Illuminate\\Routing\\Controller->callAction('currentFilmList', Array)
+#7 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php(219): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(App\\Http\\Controllers\\ApiController), 'currentFilmList')
+#8 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php(176): Illuminate\\Routing\\Route->runController()
+#9 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(681): Illuminate\\Routing\\Route->run()
+#10 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#11 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#12 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#13 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php(59): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#14 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Routing\\Middleware\\ThrottleRequests->handle(Object(Illuminate\\Http\\Request), Object(Closure), 10000, '1')
+#15 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#16 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(683): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#17 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(658): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#18 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(624): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#19 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(613): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#20 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#21 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#22 /data/wwwroot/xcx.ylhwlkj.com/app/Http/Middleware/RequestLog.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#23 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): App\\Http\\Middleware\\RequestLog->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#25 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#26 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#27 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#28 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#29 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#30 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(63): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#31 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#32 /data/wwwroot/xcx.ylhwlkj.com/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#33 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Fideloper\\Proxy\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#34 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#35 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(145): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#36 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#37 /data/wwwroot/xcx.ylhwlkj.com/public/index.php(60): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#38 {main}
+"} 
+[2023-05-23 16:42:42] local.DEBUG: Request | 111.197.252.254 | /api/user/info | {"com_id":"10102","token":"1717d7d4b2887f324bd911f8071c7100"} 
+[2023-05-23 16:42:42] local.DEBUG: Request | 111.197.252.254 | /api/current_film | {"type":"2","limit":"10","city_code":"110105","com_id":"10102","token":"1717d7d4b2887f324bd911f8071c7100"} 
+[2023-05-23 16:42:42] local.DEBUG: Client error: `POST https://c.jufubao.cn/oauth/access-token` resulted in a `403 Forbidden` response:
+{"code":403,"message":"error","result":[]}
+  
+[2023-05-23 16:42:42] local.ERROR: Undefined index: access_token {"exception":"[object] (ErrorException(code: 0): Undefined index: access_token at /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php:335)
+[stacktrace]
+#0 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(335): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/data/wwwroot/x...', 335, Array)
+#1 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(317): App\\Support\\MApi::getApiToken()
+#2 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(269): App\\Support\\MApi::getToken()
+#3 /data/wwwroot/xcx.ylhwlkj.com/app/Support/Api/ApiHouse.php(267): App\\Support\\MApi::getCurrentFilm('110100')
+#4 /data/wwwroot/xcx.ylhwlkj.com/app/Http/Controllers/ApiController.php(643): App\\Support\\Api\\ApiHouse::__callStatic('getCurrentFilm', Array)
+#5 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(54): App\\Http\\Controllers\\ApiController->currentFilmList(Object(Illuminate\\Http\\Request))
+#6 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(45): Illuminate\\Routing\\Controller->callAction('currentFilmList', Array)
+#7 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php(219): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(App\\Http\\Controllers\\ApiController), 'currentFilmList')
+#8 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php(176): Illuminate\\Routing\\Route->runController()
+#9 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(681): Illuminate\\Routing\\Route->run()
+#10 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#11 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#12 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#13 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php(59): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#14 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Routing\\Middleware\\ThrottleRequests->handle(Object(Illuminate\\Http\\Request), Object(Closure), 10000, '1')
+#15 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#16 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(683): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#17 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(658): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#18 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(624): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#19 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(613): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#20 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#21 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#22 /data/wwwroot/xcx.ylhwlkj.com/app/Http/Middleware/RequestLog.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#23 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): App\\Http\\Middleware\\RequestLog->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#25 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#26 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#27 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#28 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#29 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#30 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(63): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#31 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#32 /data/wwwroot/xcx.ylhwlkj.com/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#33 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Fideloper\\Proxy\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#34 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#35 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(145): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#36 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#37 /data/wwwroot/xcx.ylhwlkj.com/public/index.php(60): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#38 {main}
+"} 
+[2023-05-23 16:43:21] local.DEBUG: Request | 117.129.9.30 | /api/carousel | {"com_id":"10001","token":"undefined"} 
+[2023-05-23 16:43:21] local.DEBUG: Request | 117.129.9.30 | /api/card/cardList | {"com_id":"10001","token":"undefined"} 
+[2023-05-23 16:43:21] local.DEBUG: Request | 117.129.9.30 | /api/user/wxlogin | {"code":"0b1SBlml2VGnlb4aFwll2qRHeE1SBlmr","com_id":10001} 
+[2023-05-23 16:43:22] local.DEBUG: Request | 117.129.9.30 | /api/current_film | {"type":"1","limit":"10","city_code":"110000","com_id":"10001","token":"undefined"} 
+[2023-05-23 16:43:22] local.DEBUG: Request | 117.129.9.30 | /api/current_film | {"type":"2","limit":"10","city_code":"110000","com_id":"10001","token":"undefined"} 
+[2023-05-23 16:43:23] local.DEBUG: Client error: `POST https://c.jufubao.cn/oauth/access-token` resulted in a `403 Forbidden` response:
+{"code":403,"message":"error","result":[]}
+  
+[2023-05-23 16:43:23] local.DEBUG: Client error: `POST https://c.jufubao.cn/oauth/access-token` resulted in a `403 Forbidden` response:
+{"code":403,"message":"error","result":[]}
+  
+[2023-05-23 16:43:23] local.ERROR: Undefined index: access_token {"exception":"[object] (ErrorException(code: 0): Undefined index: access_token at /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php:335)
+[stacktrace]
+#0 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(335): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/data/wwwroot/x...', 335, Array)
+#1 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(317): App\\Support\\MApi::getApiToken()
+#2 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(286): App\\Support\\MApi::getToken()
+#3 /data/wwwroot/xcx.ylhwlkj.com/app/Support/Api/ApiHouse.php(267): App\\Support\\MApi::getPlanFilm('110100')
+#4 /data/wwwroot/xcx.ylhwlkj.com/app/Http/Controllers/ApiController.php(611): App\\Support\\Api\\ApiHouse::__callStatic('getPlanFilm', Array)
+#5 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(54): App\\Http\\Controllers\\ApiController->currentFilmList(Object(Illuminate\\Http\\Request))
+#6 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(45): Illuminate\\Routing\\Controller->callAction('currentFilmList', Array)
+#7 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php(219): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(App\\Http\\Controllers\\ApiController), 'currentFilmList')
+#8 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php(176): Illuminate\\Routing\\Route->runController()
+#9 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(681): Illuminate\\Routing\\Route->run()
+#10 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#11 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#12 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#13 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php(59): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#14 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Routing\\Middleware\\ThrottleRequests->handle(Object(Illuminate\\Http\\Request), Object(Closure), 10000, '1')
+#15 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#16 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(683): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#17 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(658): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#18 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(624): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#19 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(613): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#20 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#21 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#22 /data/wwwroot/xcx.ylhwlkj.com/app/Http/Middleware/RequestLog.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#23 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): App\\Http\\Middleware\\RequestLog->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#25 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#26 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#27 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#28 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#29 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#30 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(63): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#31 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#32 /data/wwwroot/xcx.ylhwlkj.com/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#33 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Fideloper\\Proxy\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#34 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#35 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(145): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#36 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#37 /data/wwwroot/xcx.ylhwlkj.com/public/index.php(60): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#38 {main}
+"} 
+[2023-05-23 16:43:23] local.ERROR: Undefined index: access_token {"exception":"[object] (ErrorException(code: 0): Undefined index: access_token at /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php:335)
+[stacktrace]
+#0 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(335): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/data/wwwroot/x...', 335, Array)
+#1 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(317): App\\Support\\MApi::getApiToken()
+#2 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(269): App\\Support\\MApi::getToken()
+#3 /data/wwwroot/xcx.ylhwlkj.com/app/Support/Api/ApiHouse.php(267): App\\Support\\MApi::getCurrentFilm('110100')
+#4 /data/wwwroot/xcx.ylhwlkj.com/app/Http/Controllers/ApiController.php(643): App\\Support\\Api\\ApiHouse::__callStatic('getCurrentFilm', Array)
+#5 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(54): App\\Http\\Controllers\\ApiController->currentFilmList(Object(Illuminate\\Http\\Request))
+#6 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(45): Illuminate\\Routing\\Controller->callAction('currentFilmList', Array)
+#7 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php(219): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(App\\Http\\Controllers\\ApiController), 'currentFilmList')
+#8 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php(176): Illuminate\\Routing\\Route->runController()
+#9 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(681): Illuminate\\Routing\\Route->run()
+#10 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#11 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#12 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#13 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php(59): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#14 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Routing\\Middleware\\ThrottleRequests->handle(Object(Illuminate\\Http\\Request), Object(Closure), 10000, '1')
+#15 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#16 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(683): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#17 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(658): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#18 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(624): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#19 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(613): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#20 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#21 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#22 /data/wwwroot/xcx.ylhwlkj.com/app/Http/Middleware/RequestLog.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#23 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): App\\Http\\Middleware\\RequestLog->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#25 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#26 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#27 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#28 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#29 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#30 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(63): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#31 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#32 /data/wwwroot/xcx.ylhwlkj.com/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#33 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Fideloper\\Proxy\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#34 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#35 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(145): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#36 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#37 /data/wwwroot/xcx.ylhwlkj.com/public/index.php(60): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#38 {main}
+"} 
+[2023-05-23 17:11:50] local.DEBUG: Request | 112.224.2.101 | /api/card/cardList | {"com_id":"10037","token":"undefined"} 
+[2023-05-23 17:11:50] local.DEBUG: Request | 112.224.2.101 | /api/carousel | {"com_id":"10037","token":"undefined"} 
+[2023-05-23 17:11:50] local.DEBUG: Request | 112.224.2.101 | /api/user/wxlogin | {"code":"0e3mvn000ewL1Q114a100WhMIk3mvn0M","com_id":"10037"} 
+[2023-05-23 17:11:52] local.DEBUG: Request | 112.224.2.101 | /api/current_film | {"type":"1","limit":"10","city_code":"371102","com_id":"10037","token":"undefined"} 
+[2023-05-23 17:11:52] local.DEBUG: Request | 112.224.2.101 | /api/current_film | {"type":"2","limit":"10","city_code":"371102","com_id":"10037","token":"undefined"} 
+[2023-05-23 17:11:52] local.DEBUG: Client error: `POST https://c.jufubao.cn/oauth/access-token` resulted in a `403 Forbidden` response:
+{"code":403,"message":"error","result":[]}
+  
+[2023-05-23 17:11:52] local.ERROR: Undefined index: access_token {"exception":"[object] (ErrorException(code: 0): Undefined index: access_token at /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php:335)
+[stacktrace]
+#0 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(335): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/data/wwwroot/x...', 335, Array)
+#1 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(317): App\\Support\\MApi::getApiToken()
+#2 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(269): App\\Support\\MApi::getToken()
+#3 /data/wwwroot/xcx.ylhwlkj.com/app/Support/Api/ApiHouse.php(267): App\\Support\\MApi::getCurrentFilm('371100')
+#4 /data/wwwroot/xcx.ylhwlkj.com/app/Http/Controllers/ApiController.php(643): App\\Support\\Api\\ApiHouse::__callStatic('getCurrentFilm', Array)
+#5 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(54): App\\Http\\Controllers\\ApiController->currentFilmList(Object(Illuminate\\Http\\Request))
+#6 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(45): Illuminate\\Routing\\Controller->callAction('currentFilmList', Array)
+#7 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php(219): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(App\\Http\\Controllers\\ApiController), 'currentFilmList')
+#8 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php(176): Illuminate\\Routing\\Route->runController()
+#9 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(681): Illuminate\\Routing\\Route->run()
+#10 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#11 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#12 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#13 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php(59): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#14 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Routing\\Middleware\\ThrottleRequests->handle(Object(Illuminate\\Http\\Request), Object(Closure), 10000, '1')
+#15 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#16 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(683): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#17 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(658): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#18 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(624): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#19 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(613): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#20 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#21 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#22 /data/wwwroot/xcx.ylhwlkj.com/app/Http/Middleware/RequestLog.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#23 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): App\\Http\\Middleware\\RequestLog->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#25 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#26 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#27 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#28 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#29 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#30 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(63): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#31 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#32 /data/wwwroot/xcx.ylhwlkj.com/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#33 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Fideloper\\Proxy\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#34 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#35 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(145): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#36 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#37 /data/wwwroot/xcx.ylhwlkj.com/public/index.php(60): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#38 {main}
+"} 
+[2023-05-23 17:11:52] local.DEBUG: Client error: `POST https://c.jufubao.cn/oauth/access-token` resulted in a `403 Forbidden` response:
+{"code":403,"message":"error","result":[]}
+  
+[2023-05-23 17:11:52] local.ERROR: Undefined index: access_token {"exception":"[object] (ErrorException(code: 0): Undefined index: access_token at /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php:335)
+[stacktrace]
+#0 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(335): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/data/wwwroot/x...', 335, Array)
+#1 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(317): App\\Support\\MApi::getApiToken()
+#2 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(286): App\\Support\\MApi::getToken()
+#3 /data/wwwroot/xcx.ylhwlkj.com/app/Support/Api/ApiHouse.php(267): App\\Support\\MApi::getPlanFilm('371100')
+#4 /data/wwwroot/xcx.ylhwlkj.com/app/Http/Controllers/ApiController.php(611): App\\Support\\Api\\ApiHouse::__callStatic('getPlanFilm', Array)
+#5 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(54): App\\Http\\Controllers\\ApiController->currentFilmList(Object(Illuminate\\Http\\Request))
+#6 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(45): Illuminate\\Routing\\Controller->callAction('currentFilmList', Array)
+#7 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php(219): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(App\\Http\\Controllers\\ApiController), 'currentFilmList')
+#8 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php(176): Illuminate\\Routing\\Route->runController()
+#9 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(681): Illuminate\\Routing\\Route->run()
+#10 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#11 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#12 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#13 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php(59): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#14 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Routing\\Middleware\\ThrottleRequests->handle(Object(Illuminate\\Http\\Request), Object(Closure), 10000, '1')
+#15 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#16 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(683): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#17 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(658): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#18 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(624): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#19 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(613): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#20 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#21 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#22 /data/wwwroot/xcx.ylhwlkj.com/app/Http/Middleware/RequestLog.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#23 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): App\\Http\\Middleware\\RequestLog->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#25 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#26 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#27 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#28 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#29 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#30 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(63): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#31 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#32 /data/wwwroot/xcx.ylhwlkj.com/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#33 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Fideloper\\Proxy\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#34 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#35 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(145): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#36 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#37 /data/wwwroot/xcx.ylhwlkj.com/public/index.php(60): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#38 {main}
+"} 
+[2023-05-23 17:12:12] local.DEBUG: Request | 112.224.2.101 | /api/cinemas_brand | {"com_id":"10037","token":"undefined"} 
+[2023-05-23 17:12:12] local.DEBUG: Request | 112.224.2.101 | /api/carousel | {"com_id":"10037","token":"undefined"} 
+[2023-05-23 17:12:12] local.DEBUG: Request | 112.224.2.101 | /api/areas | {"city_code":"371102","type":"subway","com_id":"10037","token":"undefined"} 
+[2023-05-23 17:12:12] local.DEBUG: Request | 112.224.2.101 | /api/areas | {"city_code":"371102","type":"tradearea","com_id":"10037","token":"undefined"} 
+[2023-05-23 17:12:12] local.DEBUG: Request | 112.224.2.101 | /api/areas | {"city_code":"371102","type":"district","com_id":"10037","token":"undefined"} 
+[2023-05-23 17:12:12] local.DEBUG: Request | 112.224.2.101 | /api/cinemas | {"city_code":"371102","trade_area":null,"subway":null,"lng":"119.552485","lat":"35.455772","brand_id":null,"com_id":"10037","token":"undefined"} 
+[2023-05-23 17:12:12] local.DEBUG: Request | 112.224.2.101 | /api/current_film | {"type":"2","limit":"100","city_code":"371102","com_id":"10037","token":"undefined"} 
+[2023-05-23 17:12:12] local.DEBUG: Client error: `POST https://c.jufubao.cn/oauth/access-token` resulted in a `403 Forbidden` response:
+{"code":403,"message":"error","result":[]}
+  
+[2023-05-23 17:12:12] local.ERROR: Undefined index: access_token {"exception":"[object] (ErrorException(code: 0): Undefined index: access_token at /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php:335)
+[stacktrace]
+#0 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(335): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/data/wwwroot/x...', 335, Array)
+#1 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(317): App\\Support\\MApi::getApiToken()
+#2 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(269): App\\Support\\MApi::getToken()
+#3 /data/wwwroot/xcx.ylhwlkj.com/app/Support/Api/ApiHouse.php(267): App\\Support\\MApi::getCurrentFilm('371100')
+#4 /data/wwwroot/xcx.ylhwlkj.com/app/Http/Controllers/ApiController.php(643): App\\Support\\Api\\ApiHouse::__callStatic('getCurrentFilm', Array)
+#5 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(54): App\\Http\\Controllers\\ApiController->currentFilmList(Object(Illuminate\\Http\\Request))
+#6 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(45): Illuminate\\Routing\\Controller->callAction('currentFilmList', Array)
+#7 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php(219): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(App\\Http\\Controllers\\ApiController), 'currentFilmList')
+#8 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php(176): Illuminate\\Routing\\Route->runController()
+#9 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(681): Illuminate\\Routing\\Route->run()
+#10 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#11 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#12 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#13 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php(59): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#14 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Routing\\Middleware\\ThrottleRequests->handle(Object(Illuminate\\Http\\Request), Object(Closure), 10000, '1')
+#15 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#16 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(683): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#17 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(658): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#18 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(624): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#19 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(613): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#20 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#21 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#22 /data/wwwroot/xcx.ylhwlkj.com/app/Http/Middleware/RequestLog.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#23 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): App\\Http\\Middleware\\RequestLog->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#25 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#26 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#27 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#28 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#29 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#30 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(63): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#31 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#32 /data/wwwroot/xcx.ylhwlkj.com/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#33 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Fideloper\\Proxy\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#34 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#35 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(145): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#36 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#37 /data/wwwroot/xcx.ylhwlkj.com/public/index.php(60): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#38 {main}
+"} 
+[2023-05-23 17:12:14] local.DEBUG: Request | 112.224.2.101 | /api/user/wxlogin | {"code":"0a3Swn000sqL1Q1lDk100iwXiB2Swn0F","com_id":"10037"} 
+[2023-05-23 17:12:23] local.DEBUG: Request | 112.224.2.101 | /api/user/wxlogin | {"code":"0b3VPGFa137smF0mY6Ja1DuPbW3VPGFw","com_id":"10037"} 
+[2023-05-23 17:12:24] local.DEBUG: Request | 112.224.2.101 | /api/areas | {"city_code":"371300","type":"subway","com_id":"10037","token":"undefined"} 
+[2023-05-23 17:12:24] local.DEBUG: Request | 112.224.2.101 | /api/cinemas | {"city_code":"371300","trade_area":null,"subway":null,"lng":"119.552485","lat":"35.455772","brand_id":null,"com_id":"10037","token":"undefined"} 
+[2023-05-23 17:12:24] local.DEBUG: Request | 112.224.2.101 | /api/current_film | {"type":"2","limit":"100","city_code":"371300","com_id":"10037","token":"undefined"} 
+[2023-05-23 17:12:24] local.DEBUG: Request | 112.224.2.101 | /api/areas | {"city_code":"371300","type":"district","com_id":"10037","token":"undefined"} 
+[2023-05-23 17:12:24] local.DEBUG: Request | 112.224.2.101 | /api/areas | {"city_code":"371300","type":"tradearea","com_id":"10037","token":"undefined"} 
+[2023-05-23 17:12:24] local.DEBUG: Client error: `POST https://c.jufubao.cn/oauth/access-token` resulted in a `403 Forbidden` response:
+{"code":403,"message":"error","result":[]}
+  
+[2023-05-23 17:12:24] local.ERROR: Undefined index: access_token {"exception":"[object] (ErrorException(code: 0): Undefined index: access_token at /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php:335)
+[stacktrace]
+#0 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(335): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/data/wwwroot/x...', 335, Array)
+#1 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(317): App\\Support\\MApi::getApiToken()
+#2 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(269): App\\Support\\MApi::getToken()
+#3 /data/wwwroot/xcx.ylhwlkj.com/app/Support/Api/ApiHouse.php(267): App\\Support\\MApi::getCurrentFilm('371300')
+#4 /data/wwwroot/xcx.ylhwlkj.com/app/Http/Controllers/ApiController.php(643): App\\Support\\Api\\ApiHouse::__callStatic('getCurrentFilm', Array)
+#5 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(54): App\\Http\\Controllers\\ApiController->currentFilmList(Object(Illuminate\\Http\\Request))
+#6 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(45): Illuminate\\Routing\\Controller->callAction('currentFilmList', Array)
+#7 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php(219): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(App\\Http\\Controllers\\ApiController), 'currentFilmList')
+#8 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php(176): Illuminate\\Routing\\Route->runController()
+#9 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(681): Illuminate\\Routing\\Route->run()
+#10 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#11 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#12 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#13 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php(59): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#14 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Routing\\Middleware\\ThrottleRequests->handle(Object(Illuminate\\Http\\Request), Object(Closure), 10000, '1')
+#15 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#16 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(683): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#17 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(658): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#18 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(624): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#19 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(613): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#20 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#21 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#22 /data/wwwroot/xcx.ylhwlkj.com/app/Http/Middleware/RequestLog.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#23 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): App\\Http\\Middleware\\RequestLog->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#25 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#26 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#27 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#28 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#29 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#30 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(63): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#31 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#32 /data/wwwroot/xcx.ylhwlkj.com/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#33 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Fideloper\\Proxy\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#34 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#35 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(145): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#36 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#37 /data/wwwroot/xcx.ylhwlkj.com/public/index.php(60): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#38 {main}
+"} 
+[2023-05-23 17:12:26] local.DEBUG: Request | 112.224.2.101 | /api/current_film | {"type":"2","limit":"100","city_code":"371300","com_id":"10037","token":"undefined"} 
+[2023-05-23 17:12:26] local.DEBUG: Client error: `POST https://c.jufubao.cn/oauth/access-token` resulted in a `403 Forbidden` response:
+{"code":403,"message":"error","result":[]}
+  
+[2023-05-23 17:12:26] local.ERROR: Undefined index: access_token {"exception":"[object] (ErrorException(code: 0): Undefined index: access_token at /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php:335)
+[stacktrace]
+#0 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(335): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/data/wwwroot/x...', 335, Array)
+#1 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(317): App\\Support\\MApi::getApiToken()
+#2 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(269): App\\Support\\MApi::getToken()
+#3 /data/wwwroot/xcx.ylhwlkj.com/app/Support/Api/ApiHouse.php(267): App\\Support\\MApi::getCurrentFilm('371300')
+#4 /data/wwwroot/xcx.ylhwlkj.com/app/Http/Controllers/ApiController.php(643): App\\Support\\Api\\ApiHouse::__callStatic('getCurrentFilm', Array)
+#5 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(54): App\\Http\\Controllers\\ApiController->currentFilmList(Object(Illuminate\\Http\\Request))
+#6 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(45): Illuminate\\Routing\\Controller->callAction('currentFilmList', Array)
+#7 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php(219): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(App\\Http\\Controllers\\ApiController), 'currentFilmList')
+#8 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php(176): Illuminate\\Routing\\Route->runController()
+#9 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(681): Illuminate\\Routing\\Route->run()
+#10 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#11 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#12 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#13 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php(59): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#14 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Routing\\Middleware\\ThrottleRequests->handle(Object(Illuminate\\Http\\Request), Object(Closure), 10000, '1')
+#15 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#16 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(683): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#17 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(658): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#18 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(624): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#19 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(613): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#20 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#21 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#22 /data/wwwroot/xcx.ylhwlkj.com/app/Http/Middleware/RequestLog.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#23 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): App\\Http\\Middleware\\RequestLog->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#25 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#26 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#27 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#28 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#29 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#30 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(63): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#31 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#32 /data/wwwroot/xcx.ylhwlkj.com/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#33 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Fideloper\\Proxy\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#34 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#35 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(145): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#36 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#37 /data/wwwroot/xcx.ylhwlkj.com/public/index.php(60): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#38 {main}
+"} 
+[2023-05-23 17:12:27] local.DEBUG: Request | 112.224.2.101 | /api/cinemas_film | {"cinema_id":"3175706","film_id":"undefined","show_time":null,"com_id":"10037","token":"undefined"} 
+[2023-05-23 17:12:28] local.DEBUG: Client error: `POST https://c.jufubao.cn/oauth/access-token` resulted in a `403 Forbidden` response:
+{"code":403,"message":"error","result":[]}
+  
+[2023-05-23 17:12:28] local.ERROR: Undefined index: access_token {"exception":"[object] (ErrorException(code: 0): Undefined index: access_token at /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php:335)
+[stacktrace]
+#0 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(335): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/data/wwwroot/x...', 335, Array)
+#1 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(317): App\\Support\\MApi::getApiToken()
+#2 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(233): App\\Support\\MApi::getToken()
+#3 /data/wwwroot/xcx.ylhwlkj.com/app/Support/Api/ApiHouse.php(254): App\\Support\\MApi::filmList(3175706)
+#4 /data/wwwroot/xcx.ylhwlkj.com/app/Http/Controllers/ApiController.php(407): App\\Support\\Api\\ApiHouse::getFilmList(3175706)
+#5 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(54): App\\Http\\Controllers\\ApiController->getFilmWithCinema(Object(Illuminate\\Http\\Request))
+#6 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(45): Illuminate\\Routing\\Controller->callAction('getFilmWithCine...', Array)
+#7 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php(219): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(App\\Http\\Controllers\\ApiController), 'getFilmWithCine...')
+#8 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php(176): Illuminate\\Routing\\Route->runController()
+#9 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(681): Illuminate\\Routing\\Route->run()
+#10 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#11 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#12 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#13 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php(59): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#14 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Routing\\Middleware\\ThrottleRequests->handle(Object(Illuminate\\Http\\Request), Object(Closure), 10000, '1')
+#15 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#16 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(683): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#17 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(658): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#18 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(624): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#19 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(613): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#20 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#21 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#22 /data/wwwroot/xcx.ylhwlkj.com/app/Http/Middleware/RequestLog.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#23 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): App\\Http\\Middleware\\RequestLog->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#25 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#26 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#27 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#28 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#29 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#30 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(63): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#31 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#32 /data/wwwroot/xcx.ylhwlkj.com/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#33 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Fideloper\\Proxy\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#34 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#35 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(145): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#36 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#37 /data/wwwroot/xcx.ylhwlkj.com/public/index.php(60): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#38 {main}
+"} 
+[2023-05-23 17:12:29] local.DEBUG: Request | 112.224.2.101 | /api/areas | {"city_code":"371300","type":"subway","com_id":"10037","token":"undefined"} 
+[2023-05-23 17:12:29] local.DEBUG: Request | 112.224.2.101 | /api/areas | {"city_code":"371300","type":"tradearea","com_id":"10037","token":"undefined"} 
+[2023-05-23 17:12:29] local.DEBUG: Request | 112.224.2.101 | /api/cinemas | {"city_code":"371300","trade_area":null,"subway":null,"lng":"119.552485","lat":"35.455772","brand_id":null,"com_id":"10037","token":"undefined"} 
+[2023-05-23 17:12:29] local.DEBUG: Request | 112.224.2.101 | /api/areas | {"city_code":"371300","type":"district","com_id":"10037","token":"undefined"} 
+[2023-05-23 17:12:29] local.DEBUG: Request | 112.224.2.101 | /api/current_film | {"type":"2","limit":"100","city_code":"371300","com_id":"10037","token":"undefined"} 
+[2023-05-23 17:12:29] local.DEBUG: Client error: `POST https://c.jufubao.cn/oauth/access-token` resulted in a `403 Forbidden` response:
+{"code":403,"message":"error","result":[]}
+  
+[2023-05-23 17:12:29] local.ERROR: Undefined index: access_token {"exception":"[object] (ErrorException(code: 0): Undefined index: access_token at /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php:335)
+[stacktrace]
+#0 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(335): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Undefined index...', '/data/wwwroot/x...', 335, Array)
+#1 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(317): App\\Support\\MApi::getApiToken()
+#2 /data/wwwroot/xcx.ylhwlkj.com/app/Support/MApi.php(269): App\\Support\\MApi::getToken()
+#3 /data/wwwroot/xcx.ylhwlkj.com/app/Support/Api/ApiHouse.php(267): App\\Support\\MApi::getCurrentFilm('371300')
+#4 /data/wwwroot/xcx.ylhwlkj.com/app/Http/Controllers/ApiController.php(643): App\\Support\\Api\\ApiHouse::__callStatic('getCurrentFilm', Array)
+#5 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(54): App\\Http\\Controllers\\ApiController->currentFilmList(Object(Illuminate\\Http\\Request))
+#6 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(45): Illuminate\\Routing\\Controller->callAction('currentFilmList', Array)
+#7 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php(219): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(App\\Http\\Controllers\\ApiController), 'currentFilmList')
+#8 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Route.php(176): Illuminate\\Routing\\Route->runController()
+#9 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(681): Illuminate\\Routing\\Route->run()
+#10 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#11 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#12 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#13 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php(59): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#14 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Routing\\Middleware\\ThrottleRequests->handle(Object(Illuminate\\Http\\Request), Object(Closure), 10000, '1')
+#15 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#16 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(683): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#17 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(658): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#18 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(624): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#19 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Routing/Router.php(613): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#20 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#21 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#22 /data/wwwroot/xcx.ylhwlkj.com/app/Http/Middleware/RequestLog.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#23 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): App\\Http\\Middleware\\RequestLog->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#25 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#26 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#27 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#28 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#29 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#30 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(63): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#31 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#32 /data/wwwroot/xcx.ylhwlkj.com/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#33 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Fideloper\\Proxy\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#34 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#35 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(145): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#36 /data/wwwroot/xcx.ylhwlkj.com/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#37 /data/wwwroot/xcx.ylhwlkj.com/public/index.php(60): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#38 {main}
+"} 
+[2023-05-23 18:29:33] local.DEBUG: Request | 116.179.37.52 | /api/stores/info | {"token":null} 
+[2023-05-23 18:29:34] local.DEBUG: Request | 116.179.37.122 | /api/stores/info | {"token":null} 
+[2023-05-23 19:34:10] local.DEBUG: Request | 116.179.33.11 | /api/stores/info | {"token":null} 
+[2023-05-23 19:34:12] local.DEBUG: Request | 116.179.33.73 | /api/stores/info | {"token":null} 
+[2023-05-23 19:54:43] local.DEBUG: Request | 116.179.37.46 | /api/stores/info | {"token":null} 
+[2023-05-23 19:54:44] local.DEBUG: Request | 116.179.37.84 | /api/stores/info | {"token":null} 
+[2023-05-23 20:56:25] local.DEBUG: Request | 116.179.33.14 | /api/stores/info | {"token":null} 
+[2023-05-23 20:56:26] local.DEBUG: Request | 116.179.33.211 | /api/stores/info | {"token":null} 
+[2023-05-23 21:52:31] local.DEBUG: Request | 116.179.37.41 | /api/stores/info | {"token":null} 
+[2023-05-23 21:52:32] local.DEBUG: Request | 116.179.37.59 | /api/stores/info | {"token":null} 
+[2023-05-23 22:28:02] local.DEBUG: Request | 116.179.37.222 | /api/stores/info | {"token":null} 
+[2023-05-23 22:28:03] local.DEBUG: Request | 116.179.37.70 | /api/stores/info | {"token":null} 
+[2023-05-23 23:03:31] local.DEBUG: Request | 116.179.37.9 | /api/stores/info | {"token":null} 
+[2023-05-23 23:03:32] local.DEBUG: Request | 116.179.37.5 | /api/stores/info | {"token":null} 
