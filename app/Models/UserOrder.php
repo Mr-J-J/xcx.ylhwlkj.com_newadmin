@@ -534,6 +534,7 @@ class UserOrder extends Model
             $api_order=$apiOrderModel->createOrder($order->api_lock_sid,$order->order_no,$mobile,$orderAmount,$orderAmount,$pay_no);
 //            \App\Support\MovieApiFactory::api('jufubao')->payOrder($order->api_lock_sid,$order->order_no);
             $res = NApi::sellticket($order['cinema_id'],$order['api_lock_sid'],$vprice,$order['paiqi_id']);
+            logger($res);
             if($res['result']['status']!=0){
                 logger('新接口下单失败');
                 logger($order);

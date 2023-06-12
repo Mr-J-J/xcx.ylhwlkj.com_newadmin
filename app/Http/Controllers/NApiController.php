@@ -11,6 +11,7 @@ use Carbon\Carbon;
 use Illuminate\Http\Request;
 use App\Support\Api\ApiHouse;
 use App\ApiModels\Wangpiao as Api;
+use Illuminate\Support\Facades\DB;
 
 /**
  * 影福客接口
@@ -45,7 +46,11 @@ class NApiController extends Controller
 
 
     }
-
+    public function ceshi(Request $request){
+//        return NApi::sellticket('11111741','YP202306102019587901334','66.5','5D80E519318D99762516ABB58B4F1E3F');
+//        return NApi::getorderstatus('11111741','YP202306102019587901334');
+        return NApi::unlockorder('11111741','YP202306102104533390323');
+    }
     /**
      * 更新排期
      *
@@ -136,18 +141,27 @@ class NApiController extends Controller
         if($type==2){
             $list2=Newmovie_schedule::where('city',$city)->distinct()->get(['filmCode']);
             $result=$list2;
-
+//            logger($list2);
             if(count($list2)==0){
-                $list = Newcinemas::where('city','=',$city)->orwhere('county','=',$city)->take(3)->pluck('cinemaCode');
+                $list = Newcinemas::where('city','=',$city)->orwhere('county','=',$city)->take(2)->pluck('cinemaCode');
                 $arr=$list;
                 $list2 = [];
                 foreach($arr as $item) {
-                        $list1 = Napi::getplan($item);
+                    $list1 = Napi::getplan($item);
                     $list2 = array_merge($list2, $list1['result']);
                 }
                 $result = array_unique(array_column($list2, 'filmCode'));
             }
-            $list = Newmove::whereIn('filmNo', $result)->where('state',1)->get();
+//            $list = Newmove::whereIn('filmNo', $result)->where('state',1)->where('type','!=','影展')->get();
+            $list = DB::table('newmoves')
+                ->join('newmovie_schedule', 'newmoves.filmNo', '=', 'newmovie_schedule.filmCode')
+                ->select('newmoves.*', DB::raw('count(newmovie_schedule.filmCode) as count'))
+                ->whereIn('newmoves.filmNo', $result)->where('newmoves.state',1)->where('newmoves.type','!=','影展')
+                ->groupBy('newmoves.id')
+                ->orderBy('count', 'desc')
+                ->limit($limit)
+                ->get();
+//            logger($list);
 //            ======================================
 
         }elseif($type==1){
@@ -171,9 +185,9 @@ class NApiController extends Controller
                 ->get();
             foreach ($list as $item1){
                 if(in_array($item1->filmNo, $ar)){
-                    $item1['look']=false;
+                    $item1->look=false;
                 }else{
-                    $item1['look']=true;
+                    $item1->look=true;
                 }
             }
         }else{
@@ -182,11 +196,11 @@ class NApiController extends Controller
         $list1 = $list;
         $list=[];
         foreach ($list1 as &$item){
-            $item['poster']=$item['trailerCover'];
-            $item['show_name']=$item['filmName'];
-            $item['leading_role']=$item['cast'];
-            $item['open_time']=$item['filmName'];
-            $item['remark']=$item['score'];
+            $item->poster=$item->trailerCover;
+            $item->show_name=$item->filmName;
+            $item->leading_role=$item->cast;
+            $item->open_time=$item->filmName;
+            $item->remark=$item->score;
 //            $item['id']=$item['filmNo'];
             $list[] = $item;
         }
@@ -448,9 +462,9 @@ class NApiController extends Controller
 //        $times = Newmovie_schedule::where('cinemaId',$cinema->cinemaCode)->groupBy('filmCode')->get();
 //        logger($times);
         foreach($hlist as &$item){
-//            $times = Newmovie_schedule::where('cinemaId',$cinema->cinemaCode)->where('filmCode',$item['filmCode'])->get();
-//            $item['datelist'] = $this->getShowDateList($times);
-            $item['datelist']=$datelist;
+            $times = Newmovie_schedule::where('cinemaId',$cinema->cinemaCode)->where('filmCode',$item['filmCode'])->get();
+            $item['datelist'] = $this->getShowDateList($times);
+//            $item['datelist']=$datelist;
         }
 
         if ($film_id!=''){
@@ -568,13 +582,15 @@ class NApiController extends Controller
         $result['film_time'] = $duration;
         $result['list'] = $schedulesList;
         $allPrice = array_column($schedulesList,'price');
-        $datelist = $this->getShowDateList2(time(),$film_id);
+        $datelist = $this->getShowDateList2(time(),$film_id,$cinema->cinemaCode);
         $result['discount'] = $discount_txt;
         $result['datelist'] = $datelist;
         return $this->success('',$result);
     }
     //获取影片排片日期
     protected function getShowDateList2($openTime,$film_id = 0,$cinema_id=0){
+        logger($film_id);
+        logger($cinema_id);
         //聚福宝
         $date = array();
         if($film_id)
@@ -586,10 +602,13 @@ class NApiController extends Controller
             }
 
             foreach($datelist as $item){
-                $date[] = array(
-                    'title'=>$item->startTime,
-                    'value'=>$item->startTime,
-                );
+                if(strtotime($item->startTime)>time()){
+                    $date[] = array(
+                        'title'=>substr($item->startTime,0,10),
+                        'value'=>$item->startTime,
+                    );
+                }
+
             }
 //            logger($date);
             if(!empty($date)){
@@ -600,7 +619,7 @@ class NApiController extends Controller
             $openTime = time();
         }
         //循环输出日期
-        for($i=0;$i<7;$i++){
+        for($i=0;$i<1;$i++){
             $time = strtotime("+ {$i} day",$openTime);
             $date[] = array(
                 'title'=>date('Y-m-d',$time),

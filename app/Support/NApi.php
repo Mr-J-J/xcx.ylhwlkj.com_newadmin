@@ -14,7 +14,7 @@ class NApi {
 
     const BASEURI = 'https://dyp.ylhwlkj.com/api/openapi/';
     const openapiid = 1014;
-    const pwd = '	ylhwlkj';
+    const pwd = 'ylhwlkj';
 
     /*
     *  getCinema 获取电影院信息
@@ -119,7 +119,7 @@ class NApi {
      *  8 sign 签名串
      */
     public static function sellticket($cinemaCode,$orderNo,$payAmount,$planKey){
-        return self::post(self::makeUri('sellticke'),['cinemaCode'=>$cinemaCode,'orderNo'=>$orderNo,'payAmount'=>$payAmount,'planKey'=>$planKey,'openapiid'=>self::openapiid,'pwd'=>self::pwd]);
+        return self::post(self::makeUri('sellticket'),['cinemaCode'=>$cinemaCode,'orderNo'=>$orderNo,'payAmount'=>$payAmount,'planKey'=>$planKey,'openapiid'=>self::openapiid,'pwd'=>self::pwd]);
     }
     /**
      * get请求

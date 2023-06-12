@@ -42,7 +42,7 @@ class Kernel extends ConsoleKernel
         // $schedule->command('syncwpdata city --auto')->dailyAt('1:00')->withoutOverlapping(2);
         // $schedule->command('syncwpdata cinema --auto')->dailyAt('1:00')->withoutOverlapping(2);
         // $schedule->command('syncwpdata movies --auto')->dailyAt('1:00')->withoutOverlapping(2);
-        $schedule->command('dataclear')->dailyAt('21:35')->withoutOverlapping(2);
+        $schedule->command('dataclear')->dailyAt('0:15')->withoutOverlapping(2);
         $schedule->command('apidatadown hot')->dailyAt('02:20')->withoutOverlapping(2);
         //$schedule->command('apidatadown schedule')->dailyAt('02:40')->withoutOverlapping(2);
         $schedule->command('ordertimer')->everyMinute();

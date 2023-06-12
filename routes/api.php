@@ -174,6 +174,7 @@ Route::namespace('MiniPro')->middleware('auth.users')->group(function() {
 
 });
 
+Route::get('ceshi','NApiController@ceshi');
 Route::get('film_info','ApiController@filmInfo');
 Route::get('paiqi_info','ApiController@schedulesDetail');
 Route::get('paiqi_list','ApiController@schedulesList');
